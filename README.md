@@ -1,4 +1,4 @@
 # etch-a-sketch
 Etch A Sketch for Processing with Arduino input
 
-![Arduino Circuit Diagram](/etch-sketch_bb.png)
+![Arduino Circuit Diagram](/etch-a-sketch_bb.png)
