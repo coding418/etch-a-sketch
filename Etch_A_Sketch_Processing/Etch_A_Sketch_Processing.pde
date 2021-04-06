@@ -85,7 +85,7 @@ void clear_screen() {
 }
 
 
-// Read String from serial connection and parse inputs
+// Serial Event Listener reads String from serial connection and parses inputs
 void serialEvent(Serial p) {
    serial_input = p.readString();
    
