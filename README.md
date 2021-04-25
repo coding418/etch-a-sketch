@@ -1,7 +1,14 @@
 # Etch-A-Sketch
-Made for Processing with Arduino USB Controller
+Written in Processing (interactive animation) and Arduino (USB Controller)
 
-![Video Preview](/etch-a-sketch.gif)
+## Preview
+### Animated GIF Preview (12 fps)
+![Etch-A-Sketch](./img/etch-a-sketch.gif)
 
-![Processing Sketch Screenshot](/etch-a-sketch-screenshot.png)
-![Arduino Circuit Diagram](/etch-a-sketch_bb.png)
+### Processing Screenshot
+![Processing Sketch Screenshot](./img/etch-a-sketch-screenshot.png)
+
+### Arduino Circuit Diagram
+![Arduino Circuit Diagram](./img/etch-a-sketch_bb.png)
+
+
