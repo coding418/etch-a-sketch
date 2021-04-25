@@ -1,5 +1,5 @@
-# etch-a-sketch
-Etch A Sketch for Processing with Arduino USB Controller
+# Etch-A-Sketch
+Made for Processing with Arduino USB Controller
 
 ![Video Preview](/etch-a-sketch.gif)
 
